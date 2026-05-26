@@ -40,7 +40,7 @@ export default function PrivacyPolicy() {
               and deliver outstanding products, which includes informing you about our services and other opportunities.
               Enrollment and use of Optimus Auto Parts products and services is always voluntary and you can opt out at
               any time. This and other privacy principles are outlined in this privacy policy. If you have questions or
-              concerns regarding this statement, please contact us at sales@optimusautoparts.com
+              concerns regarding this statement, please contact us at support@optimusautoparts.com / billing@optimusautoparts.com
             </p>
 
             <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Information We Collect And Why We Collect It</h2>
@@ -102,7 +102,7 @@ export default function PrivacyPolicy() {
               By providing your phone number, you consent to: – Receive recurring SMS messages from Optimus Auto Parts
               – Allow us to use your information for the purposes outlined above You can withdraw
               your consent at any time by replying STOP to any message or contacting us directly at
-              sales@optimusautoparts.com or 855-378-4258 Once you opt out, you will no longer receive SMS messages,
+              support@optimusautoparts.com / billing@optimusautoparts.com or 855-378-4258 Once you opt out, you will no longer receive SMS messages,
               but you may still receive emails or other forms of communication unless you opt out of those separately.
             </p>
 
@@ -116,7 +116,7 @@ export default function PrivacyPolicy() {
             <h3 className="text-xl font-bold text-gray-900 mt-6 mb-3">Opting Out</h3>
             <p>
               You can opt out of SMS messages at any time by: – Replying STOP to any SMS you receive – Contacting us at
-              sales@optimusautoparts.com or 855-378-4258 Once you opt out, you will no longer receive SMS messages,
+              support@optimusautoparts.com / billing@optimusautoparts.com or 855-378-4258 Once you opt out, you will no longer receive SMS messages,
               but you may still receive emails or other forms of communication unless you opt out of those separately.
             </p>
 
@@ -141,7 +141,7 @@ export default function PrivacyPolicy() {
             <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">How To Contact Us</h2>
             <p>
               Should you have other questions or concerns about these privacy policies, please call us at 855-378-4258
-              or send us an email at sales@optimusautoparts.com
+              or send us an email at support@optimusautoparts.com / billing@optimusautoparts.com
             </p>
 
             <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Terms of Use</h2>
@@ -322,7 +322,10 @@ export default function PrivacyPolicy() {
               </p>
 
               <p className="mt-4">
-                <strong>Email:</strong> sales@optimusautoparts.com
+                <strong>Support:</strong> support@optimusautoparts.com
+              </p>
+              <p className="mt-2">
+                <strong>Billing:</strong> billing@optimusautoparts.com
               </p>
 
               <p className="mt-4">
@@ -331,7 +334,7 @@ export default function PrivacyPolicy() {
 
               <p className="mt-4">
                 <strong>Contact Us:</strong> If you have questions about this Privacy Policy, contact us at
-                sales@optimusautoparts.com or 855-378-4258.
+                support@optimusautoparts.com / billing@optimusautoparts.com or 855-378-4258.
               </p>
             </div>
           </div>

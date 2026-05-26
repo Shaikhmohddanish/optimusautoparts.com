@@ -43,8 +43,11 @@ export default function ContactPage() {
                 <div className="flex items-start">
                   <Mail className="h-6 w-6 text-gray-600 mr-4 mt-1" />
                   <div>
-                    <a href="mailto:sales@optimusautoparts.com" className="font-bold text-gray-900 text-lg mb-1 hover:text-orange-500 transition-colors">
-                      SALES@OPTIMUSAUTOPARTS.COM
+                    <a href="mailto:support@optimusautoparts.com" className="font-bold text-gray-900 text-lg mb-1 hover:text-orange-500 transition-colors block">
+                      SUPPORT@OPTIMUSAUTOPARTS.COM
+                    </a>
+                    <a href="mailto:billing@optimusautoparts.com" className="font-bold text-gray-900 text-lg hover:text-orange-500 transition-colors block">
+                      BILLING@OPTIMUSAUTOPARTS.COM
                     </a>
                   </div>
                 </div>

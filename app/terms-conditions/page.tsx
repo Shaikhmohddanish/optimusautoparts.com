@@ -34,7 +34,7 @@ export default function TermsConditions() {
               By providing your phone number, you consent to: – Receive recurring SMS messages from Optimus Auto Parts
               – Allow us to use your information for the purposes outlined above You can withdraw
               your consent at any time by replying STOP to any message or contacting us directly at
-              sales@optimusautoparts.com or 855-378-4258.
+              support@optimusautoparts.com / billing@optimusautoparts.com or 855-378-4258.
             </p>
 
             <h3 className="text-xl font-bold text-gray-900 mt-6 mb-3">Data Sharing</h3>
@@ -47,7 +47,7 @@ export default function TermsConditions() {
             <h3 className="text-xl font-bold text-gray-900 mt-6 mb-3">Opting Out</h3>
             <p>
               You can opt out of SMS messages at any time by: – Replying STOP to any SMS you receive – Contacting us at
-              sales@optimusautoparts.com or 855-378-4258 Once you opt out, you will no longer receive SMS messages,
+              support@optimusautoparts.com / billing@optimusautoparts.com or 855-378-4258 Once you opt out, you will no longer receive SMS messages,
               but you may still receive emails or other forms of communication unless you opt out of those separately.
             </p>
 
@@ -120,7 +120,10 @@ export default function TermsConditions() {
               <p>For questions about these Terms and Conditions, contact us at:</p>
               <div className="mt-4 space-y-2">
                 <p>
-                  <strong>Email:</strong> sales@optimusautoparts.com
+                  <strong>Support:</strong> support@optimusautoparts.com
+                </p>
+                <p>
+                  <strong>Billing:</strong> billing@optimusautoparts.com
                 </p>
                 <p>
                   <strong>Phone:</strong> 855-378-4258

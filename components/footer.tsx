@@ -76,15 +76,27 @@ export function Footer() {
                 </div>
               </a>
               <a
-                href="mailto:sales@optimusautoparts.com"
+                href="mailto:support@optimusautoparts.com"
                 className="flex items-center gap-3 text-gray-400 hover:text-orange-400 transition-colors group"
               >
                 <div className="w-9 h-9 bg-orange-500/10 rounded-lg flex items-center justify-center group-hover:bg-orange-500/20 transition-colors">
                   <Mail className="h-4 w-4 text-orange-400" />
                 </div>
                 <div>
-                  <p className="text-xs text-gray-500 uppercase tracking-wider">Email</p>
-                  <p className="text-sm font-semibold text-white">sales@optimusautoparts.com</p>
+                  <p className="text-xs text-gray-500 uppercase tracking-wider">Support</p>
+                  <p className="text-sm font-semibold text-white">support@optimusautoparts.com</p>
+                </div>
+              </a>
+              <a
+                href="mailto:billing@optimusautoparts.com"
+                className="flex items-center gap-3 text-gray-400 hover:text-orange-400 transition-colors group"
+              >
+                <div className="w-9 h-9 bg-orange-500/10 rounded-lg flex items-center justify-center group-hover:bg-orange-500/20 transition-colors">
+                  <Mail className="h-4 w-4 text-orange-400" />
+                </div>
+                <div>
+                  <p className="text-xs text-gray-500 uppercase tracking-wider">Billing</p>
+                  <p className="text-sm font-semibold text-white">billing@optimusautoparts.com</p>
                 </div>
               </a>
               <div className="flex items-center gap-3">

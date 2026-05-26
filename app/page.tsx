@@ -475,8 +475,11 @@ export default function HomePage() {
                   <Mail className="h-6 w-6 text-orange-500 mr-4" />
                   <div>
                     <p className="font-semibold">Email</p>
-                    <a href="mailto:sales@optimusautoparts.com" className="text-gray-600 hover:text-orange-500 transition-colors">
-                      sales@optimusautoparts.com
+                    <a href="mailto:support@optimusautoparts.com" className="text-gray-600 hover:text-orange-500 transition-colors block">
+                      support@optimusautoparts.com
+                    </a>
+                    <a href="mailto:billing@optimusautoparts.com" className="text-gray-600 hover:text-orange-500 transition-colors block">
+                      billing@optimusautoparts.com
                     </a>
                   </div>
                 </div>

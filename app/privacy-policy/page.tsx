@@ -102,7 +102,7 @@ export default function PrivacyPolicy() {
               By providing your phone number, you consent to: – Receive recurring SMS messages from Optimus Auto Parts
               – Allow us to use your information for the purposes outlined above You can withdraw
               your consent at any time by replying STOP to any message or contacting us directly at
-              support@optimusautoparts.com / billing@optimusautoparts.com or 855-378-4258 Once you opt out, you will no longer receive SMS messages,
+              support@optimusautoparts.com / billing@optimusautoparts.com or (888) 389-9926 Once you opt out, you will no longer receive SMS messages,
               but you may still receive emails or other forms of communication unless you opt out of those separately.
             </p>
 
@@ -116,7 +116,7 @@ export default function PrivacyPolicy() {
             <h3 className="text-xl font-bold text-gray-900 mt-6 mb-3">Opting Out</h3>
             <p>
               You can opt out of SMS messages at any time by: – Replying STOP to any SMS you receive – Contacting us at
-              support@optimusautoparts.com / billing@optimusautoparts.com or 855-378-4258 Once you opt out, you will no longer receive SMS messages,
+              support@optimusautoparts.com / billing@optimusautoparts.com or (888) 389-9926 Once you opt out, you will no longer receive SMS messages,
               but you may still receive emails or other forms of communication unless you opt out of those separately.
             </p>
 
@@ -140,7 +140,7 @@ export default function PrivacyPolicy() {
 
             <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">How To Contact Us</h2>
             <p>
-              Should you have other questions or concerns about these privacy policies, please call us at 855-378-4258
+              Should you have other questions or concerns about these privacy policies, please call us at (888) 389-9926
               or send us an email at support@optimusautoparts.com / billing@optimusautoparts.com
             </p>
 
@@ -329,12 +329,12 @@ export default function PrivacyPolicy() {
               </p>
 
               <p className="mt-4">
-                <strong>Phone Number:</strong> 855-378-4258
+                <strong>Phone Number:</strong> (888) 389-9926
               </p>
 
               <p className="mt-4">
                 <strong>Contact Us:</strong> If you have questions about this Privacy Policy, contact us at
-                support@optimusautoparts.com / billing@optimusautoparts.com or 855-378-4258.
+                support@optimusautoparts.com / billing@optimusautoparts.com or (888) 389-9926.
               </p>
             </div>
           </div>

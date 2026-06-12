@@ -45,9 +45,9 @@ export default function HomePage() {
                 asChild
                 className="bg-orange-500 hover:bg-orange-600 text-white px-8 py-3 text-lg"
               >
-                <a href="tel:+18553784258">
+                <a href="tel:+18883899926">
                   <Phone className="mr-2 h-5 w-5" />
-                  USA Toll Free 855-378-4258
+                  USA Toll Free (888) 389-9926
                 </a>
               </Button>
             </div>
@@ -101,15 +101,15 @@ export default function HomePage() {
               <CardContent className="p-8 text-center">
                 <Phone className="h-12 w-12 mx-auto mb-4" />
                 <h3 className="text-xl font-bold mb-2">Give us a call</h3>
-                <a href="tel:+18553784258" className="text-3xl font-bold mb-4 block hover:text-orange-200 transition-colors">
-                  855-378-4258
+                <a href="tel:+18883899926" className="text-3xl font-bold mb-4 block hover:text-orange-200 transition-colors">
+                  (888) 389-9926
                 </a>
                 <Button 
                   asChild
                   variant="outline" 
                   className="bg-white text-orange-500 hover:bg-gray-100"
                 >
-                  <a href="tel:+18553784258">CALL NOW</a>
+                  <a href="tel:+18883899926">CALL NOW</a>
                 </Button>
               </CardContent>
             </Card>
@@ -344,7 +344,7 @@ export default function HomePage() {
                   <input type="checkbox" id="sms-consent" className="mt-1" />
                   <label htmlFor="sms-consent" className="text-sm text-gray-600">
                     By checking this box, you agree to receive SMS messages from Optimus Auto Parts related to delivery
-                    notifications. You may reply STOP to opt-out at any time. Reply HELP to 855-378-4258 for
+                    notifications. You may reply STOP to opt-out at any time. Reply HELP to (888) 389-9926 for
                     assistance. Messages and data rates may apply. Message frequency will vary. Learn more on our
                     privacy policy page and Term & Conditions.
                   </label>
@@ -466,8 +466,8 @@ export default function HomePage() {
                   <Phone className="h-6 w-6 text-orange-500 mr-4" />
                   <div>
                     <p className="font-semibold">Phone</p>
-                    <a href="tel:+18553784258" className="text-gray-600 hover:text-orange-500 transition-colors">
-                      855-378-4258
+                    <a href="tel:+18883899926" className="text-gray-600 hover:text-orange-500 transition-colors">
+                      (888) 389-9926
                     </a>
                   </div>
                 </div>

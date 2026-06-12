@@ -44,9 +44,9 @@ export function Header() {
       <div className="bg-orange-500 text-white text-sm py-2 px-4">
         <div className="max-w-7xl mx-auto flex justify-between items-center">
           <span className="hidden sm:block">📍 THE GREEN #8 SUITE A, Dover DE 19901</span>
-          <a href="tel:+18553784258" className="flex items-center gap-2 font-semibold hover:text-orange-100 transition-colors ml-auto">
+          <a href="tel:+18883899926" className="flex items-center gap-2 font-semibold hover:text-orange-100 transition-colors ml-auto">
             <Phone className="h-4 w-4" />
-            855-378-4258
+            (888) 389-9926
           </a>
         </div>
       </div>
@@ -84,7 +84,7 @@ export function Header() {
                 </button>
               ))}
               <a
-                href="tel:+18553784258"
+                href="tel:+18883899926"
                 className="ml-4 bg-orange-500 hover:bg-orange-600 text-white px-5 py-2 rounded-md text-sm font-bold transition-all duration-200 flex items-center gap-2 glow-orange-sm"
               >
                 <Phone className="h-4 w-4" />
@@ -123,11 +123,11 @@ export function Header() {
                 </button>
               ))}
               <a
-                href="tel:+18553784258"
+                href="tel:+18883899926"
                 className="flex items-center gap-2 w-full bg-orange-500 hover:bg-orange-600 text-white px-4 py-3 rounded-md text-sm font-bold mt-2 transition-all justify-center"
               >
                 <Phone className="h-4 w-4" />
-                855-378-4258
+                (888) 389-9926
               </a>
             </div>
           </div>

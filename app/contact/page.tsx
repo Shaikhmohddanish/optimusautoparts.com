@@ -34,8 +34,8 @@ export default function ContactPage() {
                 <div className="flex items-start">
                   <Phone className="h-6 w-6 text-gray-600 mr-4 mt-1" />
                   <div>
-                    <a href="tel:+18553784258" className="font-bold text-gray-900 text-lg mb-1 hover:text-orange-500 transition-colors">
-                      855-378-4258
+                    <a href="tel:+18883899926" className="font-bold text-gray-900 text-lg mb-1 hover:text-orange-500 transition-colors">
+                      (888) 389-9926
                     </a>
                   </div>
                 </div>
@@ -87,7 +87,7 @@ export default function ContactPage() {
                       <input type="checkbox" id="sms-consent-contact" className="mt-1" />
                       <label htmlFor="sms-consent-contact" className="text-sm text-gray-600">
                         By checking this box, you agree to receive SMS messages from Optimus Auto Parts related to
-                        delivery notifications. You may reply STOP to opt-out at any time. Reply HELP to 855-378-4258
+                        delivery notifications. You may reply STOP to opt-out at any time. Reply HELP to (888) 389-9926
                         for assistance. Messages and data rates may apply. Message frequency will vary. Learn more on
                         our privacy policy page and Term & Conditions.
                       </label>

@@ -64,7 +64,7 @@ export function Footer() {
             </h4>
             <div className="space-y-4">
               <a
-                href="tel:+18553784258"
+                href="tel:+18883899926"
                 className="flex items-center gap-3 text-gray-400 hover:text-orange-400 transition-colors group"
               >
                 <div className="w-9 h-9 bg-orange-500/10 rounded-lg flex items-center justify-center group-hover:bg-orange-500/20 transition-colors">
@@ -72,7 +72,7 @@ export function Footer() {
                 </div>
                 <div>
                   <p className="text-xs text-gray-500 uppercase tracking-wider">Phone</p>
-                  <p className="text-sm font-semibold text-white">855-378-4258</p>
+                  <p className="text-sm font-semibold text-white">(888) 389-9926</p>
                 </div>
               </a>
               <a
